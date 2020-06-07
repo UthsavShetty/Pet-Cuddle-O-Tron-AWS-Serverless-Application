@@ -12,7 +12,8 @@ In this demo, Implemented a serverless application using Step Functions, Lambda,
 
 
 #### Webpage
-![image](https://user-images.githubusercontent.com/47194856/83961278-78301d00-a85f-11ea-8428-56dc344d897d.png)
+![image](https://user-images.githubusercontent.com/47194856/83961544-394f9680-a862-11ea-9d51-d75bf2e92c2a.png)
+
 
 
 
