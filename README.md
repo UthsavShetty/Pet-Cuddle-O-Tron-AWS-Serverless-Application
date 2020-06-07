@@ -6,7 +6,7 @@ In this demo, Implemented a serverless application using Step Functions, Lambda,
 
 
 #### Block Diagram
-![image](https://user-images.githubusercontent.com/47194856/83961240-2be4dd00-a85f-11ea-8d4e-ba2c8507f151.png | width=100)
+![image](https://user-images.githubusercontent.com/47194856/83961240-2be4dd00-a85f-11ea-8d4e-ba2c8507f151.png)
 
 
 
